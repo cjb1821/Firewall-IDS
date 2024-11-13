@@ -1,3 +1,5 @@
+**Pennsylvania College of Technology - Class Project: [Implementation of Firewall and IDS]**
+
 Tools: VMware, pfSense, Snort 
 
 ◦ Configured a virtual network between two virtual machines 
